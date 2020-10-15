@@ -1,1 +1,1 @@
-# saycheese
+# saycheese.sh
